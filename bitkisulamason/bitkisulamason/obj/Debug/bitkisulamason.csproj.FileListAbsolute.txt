@@ -1,0 +1,10 @@
+C:\Users\yusuf\source\repos\bitkisulamason\bitkisulamason\obj\Debug\bitkisulamason.csproj.AssemblyReference.cache
+C:\Users\yusuf\source\repos\bitkisulamason\bitkisulamason\obj\Debug\bitkisulamason.Form1.resources
+C:\Users\yusuf\source\repos\bitkisulamason\bitkisulamason\obj\Debug\bitkisulamason.Properties.Resources.resources
+C:\Users\yusuf\source\repos\bitkisulamason\bitkisulamason\obj\Debug\bitkisulamason.csproj.GenerateResource.cache
+C:\Users\yusuf\source\repos\bitkisulamason\bitkisulamason\obj\Debug\bitkisulamason.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\source\repos\bitkisulamason\bitkisulamason\bin\Debug\bitkisulamason.exe.config
+C:\Users\yusuf\source\repos\bitkisulamason\bitkisulamason\bin\Debug\bitkisulamason.exe
+C:\Users\yusuf\source\repos\bitkisulamason\bitkisulamason\bin\Debug\bitkisulamason.pdb
+C:\Users\yusuf\source\repos\bitkisulamason\bitkisulamason\obj\Debug\bitkisulamason.exe
+C:\Users\yusuf\source\repos\bitkisulamason\bitkisulamason\obj\Debug\bitkisulamason.pdb
